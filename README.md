@@ -1,7 +1,7 @@
 👩🏻‍🦰 Olá, eu sou a Rebeca 
 
-- 📚 Sou estudante de Ciências de Dados
-
+- 📚 Estudo Ciência e Análise de Dados
+    
     <a href="https://github.com/Ellenrebeca203?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
