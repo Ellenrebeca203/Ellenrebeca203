@@ -20,6 +20,18 @@
 
 ---
 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## 📊 Sobre mim
+- 📈 Experiência em análise de dados
+- 🧠 Machine Learning
+- 📊 Visualização de dados
+
+
 ### 🤖 Linguagens e Tecnologias
       
 <img 
