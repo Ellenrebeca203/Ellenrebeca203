@@ -26,6 +26,7 @@
 - 🧠 Machine Learning
 - 📊 Visualização de dados
 
+---
 
 ### 🤖 Linguagens e Tecnologias
       
@@ -67,6 +68,8 @@
 
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
 
